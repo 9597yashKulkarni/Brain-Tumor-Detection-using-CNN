@@ -1,2 +1,2 @@
-# Brain-Tumor-Detrection-using-CNN
+# Brain-Tumor-Detection-using-CNN
 BE project
