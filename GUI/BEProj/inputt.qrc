@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="brain">
+    <file>brain-logo-new-final-twitter.jpg</file>
+  </qresource>
+  <qresource prefix="moreinfo">
+    <file>moreinfo.png</file>
+  </qresource>
+  <qresource prefix="symbol">
+    <file>Doctor-Symbol-Caduceus-Free-Download-PNG.png</file>
+  </qresource>
+  <qresource prefix="register">
+    <file>register.jpg</file>
+  </qresource>
+  <qresource prefix="img2">
+    <file>health-priorities.jpg</file>
+  </qresource>
+  <qresource prefix="backgnd">
+    <file>img.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>images.png</file>
+  </qresource>
+  <qresource prefix="back">
+    <file>Main.jpg</file>
+  </qresource>
+</RCC>

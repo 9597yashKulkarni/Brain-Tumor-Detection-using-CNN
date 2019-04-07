@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="brainicon">
+    <file>contactus.jpg</file>
+    <file>brain5.jpg</file>
+  </qresource>
+  <qresource prefix="login">
+    <file>images.png</file>
+  </qresource>
+  <qresource prefix="regiser">
+    <file>register.jpg</file>
+  </qresource>
+  <qresource prefix="rtback">
+    <file>right.jpg</file>
+  </qresource>
+  <qresource prefix="leftback">
+    <file>Main.jpg</file>
+  </qresource>
+</RCC>

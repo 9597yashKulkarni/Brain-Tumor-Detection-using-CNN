@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="back">
+    <file>istockphoto-913426028-1024x1024.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>istockphoto-913426028-1024x1024.jpg</file>
+  </qresource>
+  <qresource prefix="brain">
+    <file>brain-logo-new-final-twitter.jpg</file>
+  </qresource>
+</RCC>
